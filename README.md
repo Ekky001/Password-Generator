@@ -26,7 +26,7 @@ The Password Generator is a simple Python-based tool that generates strong and r
 2. Navigate to the project folder in your terminal.
 3. Run the script:
    ```bash
-   python password_generator.py
+   python password-generator.py
 
 ## Code Highlights
 - **Customizable Length**: Specify any length of password greater than or equal to 4.
