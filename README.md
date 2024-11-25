@@ -44,7 +44,7 @@ This Password Generator is ideal for:
 Contributions are welcome! Feel free to fork the project, create a feature branch, and submit a pull request.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the **MIT License**.
 
 ## Acknowledgments
 Inspired by the need for secure and random password generation in everyday online usage.
